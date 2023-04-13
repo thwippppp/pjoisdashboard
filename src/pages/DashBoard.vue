@@ -490,6 +490,5 @@ function openInNewTab(url) {
 .my-menu-link {
   color: rgb(255, 255, 255);
   background: #1976d2;
-  /* background: #26A69A; */
 }
 </style>
